@@ -1,4 +1,3 @@
-
 ## Servidor de Configuração
 
 Recurso destinado a fornecer configurações aos microservices, utilizando o repositório disponível no [Github](https://github.com/renatooa/spring-boot-microservice-config)
